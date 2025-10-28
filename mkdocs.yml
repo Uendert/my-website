@@ -43,11 +43,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
+# extra:
+#   social:
+#     - icon: simple/youtube
+#       link: https://youtube.com/@james-willett
+#     - icon: simple/linkedin
+#       link: https://linkedin.com/in/willettjames
 
 copyright: Copyright &copy; 2025 Uendert Andrade
