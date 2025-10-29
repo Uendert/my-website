@@ -1,19 +1,32 @@
-# Welcome to MkDocs
+---
+title: ""
+hide:
+  - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+:material-hand-wave: Welcome!
 
-## Commands
+I'm **Uendert Andrade**, a **Leinweber Postdoctoral Fellow** at the **University of Michigan**, working within the Leinweber Institute for Theoretical Physics (LITP). 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I am a cosmologist working at the intersection of **observational and theoretical cosmology**, focusing on galaxy clustering, Baryon Acoustic Oscillations (BAO), and tests of gravity with large-scale structure data.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
-:fontawesome-solid-u:endert
+<!-- <figure markdown>
+  ![Uendert Andrade giving a talk at CMU](assets/cosmo25.jpeg){ .hero-image width="620" loading="lazy" }
+  <figcaption class="figcaption">
+    Presenting DESI DR3 BAO measurements and validation — <i>Cosmo25, Carnegie Mellon University (2025)</i>.
+  </figcaption>
+</figure> -->
+
+![Uendert Andrade giving a talk at CMU](assets/cosmo25.jpeg){ .hero-image width="620" loading="lazy"}
+
+*Presenting DESI DR3 BAO measurements and validation — Cosmo25, Carnegie Mellon University (2025).*
+{: .figcaption }
+
+---
+
+!!! note "Site under construction"
+    New sections on **research**, **publications**, and **talks** will be added soon — please check back later.
+

@@ -1,12 +1,14 @@
-site_name: Uendert Andrade
+site_name: "Uendert Andrade"
 site_url: https://uendert.github.io/
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/LSA_LITP_web_rev.png
-  favicon: assets/LSA_LITP_web_rev.png
+  icon:
+    # logo: fontawesome/solid/U
+  logo: assets/eu.jpg
+  favicon: assets/eu.jpg
   features:
     - navigation.footer
   palette:
@@ -28,6 +30,7 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -43,11 +46,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-# extra:
-#   social:
-#     - icon: simple/youtube
-#       link: https://youtube.com/@james-willett
-#     - icon: simple/linkedin
-#       link: https://linkedin.com/in/willettjames
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Uendert
+    # - icon: fontawesome/brands/google-scholar
+    #   link: https://scholar.google.com/citations?user=XXXX
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-4118-8236
 
 copyright: Copyright &copy; 2025 Uendert Andrade
+extra_css:
+  - assets/extra.css
