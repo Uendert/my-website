@@ -16,13 +16,13 @@ I am a cosmologist working at the intersection of **observational and theoretica
 <!-- <figure markdown>
   ![Uendert Andrade giving a talk at CMU](assets/cosmo25.jpeg){ .hero-image width="620" loading="lazy" }
   <figcaption class="figcaption">
-    Presenting DESI DR3 BAO measurements and validation — <i>Cosmo25, Carnegie Mellon University (2025)</i>.
+    Presenting DESI DR2 BAO measurements and validation — <i>Cosmo25, Carnegie Mellon University (2025)</i>.
   </figcaption>
 </figure> -->
 
 ![Uendert Andrade giving a talk at CMU](assets/cosmo25.jpeg){ .hero-image width="620" loading="lazy"}
 
-*Presenting DESI DR3 BAO measurements and validation — Cosmo25, Carnegie Mellon University (2025).*
+*Presenting DESI DR2 BAO measurements and validation — Cosmo25, Carnegie Mellon University (2025).*
 {: .figcaption }
 
 ---
